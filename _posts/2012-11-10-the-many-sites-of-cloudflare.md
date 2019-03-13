@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The many sites of CloudFlare
 date: 2012-11-10 03:32
 author: cloudflare.com
